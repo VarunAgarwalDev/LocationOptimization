@@ -1,5 +1,6 @@
 from urllib.request import urlopen
 import json
+import csv
 
 class ATM:
 
@@ -61,6 +62,20 @@ def write_to_file():
 
 	f.close()
 
+def write_top_20():
+
+	sorted_atms = sorted(ATM.atm_list)[::-1]
+
+	f = open('atm_top_20.csv', 'w')
+	fieldnames = ['latitude', 'longitude']
+	writer = csv.DictWriter(f, fieldnames)
+
+	writer.writeheader()
+
+	for elem in sorted_atms[0:20]:
+		writer.writerow({'latitude': elem.lat, 'longitude': elem.lng})
+
+	f.close()
 
 
 
