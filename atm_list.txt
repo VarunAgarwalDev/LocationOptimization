@@ -1,0 +1,1016 @@
+ATM ID: 56c66be5a73e492741506f5e
+Name: Cleveland Park 1
+Longitude: -77.0582046
+Latitude: 38.93625110000001
+Accessibility: True
+Amount: 979533
+Languages: ['Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f8d
+Name: WMATA - Metro Center 2
+Longitude: -77.0296178
+Latitude: 38.8974207
+Accessibility: False
+Amount: 965979
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f92
+Name: WMATA - Federal Triangle 1
+Longitude: -77.0279673
+Latitude: 38.8936604
+Accessibility: True
+Amount: 963181
+Languages: ['French', 'Hindustani', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f8e
+Name: WMATA - Metro Center 3
+Longitude: -77.0296178
+Latitude: 38.8974207
+Accessibility: True
+Amount: 954897
+Languages: ['Chinese', 'Portuguese', 'Spanish', 'Korean', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506fc9
+Name: Annandale 2
+Longitude: -77.1889159
+Latitude: 38.8297662
+Accessibility: False
+Amount: 948157
+Languages: ['Portuguese', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506fa7
+Name: MCI Center 4
+Longitude: -77.0216171
+Latitude: 38.8983998
+Accessibility: False
+Amount: 944170
+Languages: ['French', 'Spanish', 'Chinese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f9a
+Name: Bradlee Center 1
+Longitude: -77.0920119
+Latitude: 38.8298056
+Accessibility: True
+Amount: 940203
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f8f
+Name: WMATA - Columbia Heights 1
+Longitude: -77.0329064
+Latitude: 38.9284645
+Accessibility: True
+Amount: 908108
+Languages: ['Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f3f
+Name: American University Remote 1
+Longitude: -77.0871844
+Latitude: 38.9392871
+Accessibility: True
+Amount: 901065
+Languages: ['French', 'Hindustani', 'Korean', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f84
+Name: Crystal Gateway 1
+Longitude: -77.05074499999999
+Latitude: 38.8615918
+Accessibility: True
+Amount: 898400
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f41
+Name: American University Remote 5
+Longitude: -77.0871844
+Latitude: 38.9392871
+Accessibility: False
+Amount: 883908
+Languages: ['French', 'Korean', 'Chinese', 'Portuguese', 'Hindustani', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f81
+Name: McPherson Square 1
+Longitude: -77.033287
+Latitude: 38.902006
+Accessibility: False
+Amount: 877173
+Languages: ['Chinese', 'Portuguese', 'Hindustani', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f70
+Name: Pentagon City Fashion Centre 1
+Longitude: -77.0601179
+Latitude: 38.8639404
+Accessibility: False
+Amount: 871575
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f34
+Name: Ballston Common Mall 1
+Longitude: -77.109526
+Latitude: 38.879446
+Accessibility: True
+Amount: 864330
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f91
+Name: Columbia Square 2
+Longitude: -77.0282675
+Latitude: 38.897154
+Accessibility: False
+Amount: 861723
+Languages: ['French', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f50
+Name: Columbia Pike 4
+Longitude: -77.09358499999999
+Latitude: 38.8605859
+Accessibility: False
+Amount: 857035
+Languages: ['Portuguese', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506fa0
+Name: Market Square 2
+Longitude: -77.0223723
+Latitude: 38.8944693
+Accessibility: True
+Amount: 852963
+Languages: ['Chinese', 'Korean', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f44
+Name: Spring Valley 2
+Longitude: -77.0961428
+Latitude: 38.9449596
+Accessibility: True
+Amount: 846077
+Languages: ['French', 'English']
+
+ATM ID: 56c66be5a73e492741506f71
+Name: Pentagon City Fashion Centre 2
+Longitude: -77.0601179
+Latitude: 38.8639404
+Accessibility: False
+Amount: 843408
+Languages: ['Portuguese', 'French', 'Korean', 'Chinese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f3d
+Name: Little Falls 2
+Longitude: -77.1192523
+Latitude: 38.9500943
+Accessibility: True
+Amount: 836150
+Languages: ['French', 'Korean', 'Portuguese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506fac
+Name: National Gallery of Art 1
+Longitude: -77.0208743
+Latitude: 38.8920618
+Accessibility: True
+Amount: 821198
+Languages: ['Korean', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f32
+Name: Ballston Commons Mall 2
+Longitude: -77.1102162
+Latitude: 38.8788951
+Accessibility: False
+Amount: 818133
+Languages: ['French', 'English']
+
+ATM ID: 56c66be5a73e492741506f65
+Name: 2000 Pennsylvania Avenue 2
+Longitude: -77.0459826
+Latitude: 38.90017479999999
+Accessibility: False
+Amount: 811978
+Languages: ['Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506fb0
+Name: WMATA - L'Enfant Plaza 1
+Longitude: -77.02090199999999
+Latitude: 38.885987
+Accessibility: False
+Amount: 807536
+Languages: ['Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f3c
+Name: Little Falls 1
+Longitude: -77.1192523
+Latitude: 38.9500943
+Accessibility: False
+Amount: 804024
+Languages: ['Portuguese', 'Chinese', 'French', 'Hindustani', 'Spanish', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f2f
+Name: Lee Highway/North Arlington 4
+Longitude: -77.1333157
+Latitude: 38.8960952
+Accessibility: True
+Amount: 801970
+Languages: ['Portuguese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f8c
+Name: WMATA - Metro Center 1
+Longitude: -77.0296178
+Latitude: 38.8974207
+Accessibility: False
+Amount: 800910
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506fcd
+Name: Watergate @ Landmark 1
+Longitude: -77.14197949999999
+Latitude: 38.8090259
+Accessibility: False
+Amount: 794876
+Languages: ['Chinese', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f6c
+Name: 18th &amp; M 2
+Longitude: -77.04193819999999
+Latitude: 38.9053571
+Accessibility: False
+Amount: 780761
+Languages: ['Hindustani', 'French', 'Korean', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506fbc
+Name: Reagan National Airport 2
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 761503
+Languages: ['Spanish', 'French', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f3e
+Name: American University 2
+Longitude: -77.0871844
+Latitude: 38.9392871
+Accessibility: False
+Amount: 759567
+Languages: ['Spanish', 'Chinese', 'Hindustani', 'French', 'Portuguese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506fa5
+Name: MCI Center 2
+Longitude: -77.0216171
+Latitude: 38.8983998
+Accessibility: False
+Amount: 751555
+Languages: ['Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f94
+Name: Crystal City II 2
+Longitude: -77.0497192
+Latitude: 38.8550463
+Accessibility: True
+Amount: 740919
+Languages: ['Chinese', 'Portuguese', 'French', 'Spanish', 'Korean', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f42
+Name: American University Remote 6
+Longitude: -77.0871844
+Latitude: 38.9392871
+Accessibility: False
+Amount: 740654
+Languages: ['Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506fab
+Name: Mount Vernon Triangle/City Vista 1
+Longitude: -77.0187698
+Latitude: 38.9034306
+Accessibility: False
+Amount: 739123
+Languages: ['Spanish', 'Korean', 'French', 'Portuguese', 'Chinese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f36
+Name: Kettler Capitals Iceplex 1
+Longitude: -77.10942059999999
+Latitude: 38.8786679
+Accessibility: True
+Amount: 737905
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f74
+Name: Pentagon Centre Mall 2
+Longitude: -77.0587467
+Latitude: 38.8614551
+Accessibility: False
+Amount: 726508
+Languages: ['Spanish', 'Chinese', 'Korean', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f51
+Name: The Foundry Building
+Longitude: -77.0596966
+Latitude: 38.90372
+Accessibility: True
+Amount: 704939
+Languages: ['Spanish', 'French', 'Korean', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f4d
+Name: McLean 3
+Longitude: -77.17829449999999
+Latitude: 38.932887
+Accessibility: True
+Amount: 701216
+Languages: ['Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f77
+Name: WMATA - Pentagon City 1
+Longitude: -77.0601093
+Latitude: 38.8630559
+Accessibility: True
+Amount: 672149
+Languages: ['Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506fb3
+Name: National Airport 11
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: False
+Amount: 671484
+Languages: ['Korean', 'Spanish', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f7d
+Name: 17th &amp; L 2
+Longitude: -77.03852479999999
+Latitude: 38.9037384
+Accessibility: False
+Amount: 662561
+Languages: ['Hindustani', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f6f
+Name: WMATA - Farragut West 1
+Longitude: -77.0419007
+Latitude: 38.901438
+Accessibility: True
+Amount: 659161
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f6a
+Name: International Square Remote 1
+Longitude: -77.0430097
+Latitude: 38.9019865
+Accessibility: True
+Amount: 645013
+Languages: ['Portuguese', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f47
+Name: Georgetown 2
+Longitude: -77.0646324
+Latitude: 38.9102227
+Accessibility: True
+Amount: 643067
+Languages: ['Korean', 'Spanish', 'Chinese', 'Hindustani', 'Portuguese', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f63
+Name: Dupont 1
+Longitude: -77.0457103
+Latitude: 38.91374560000001
+Accessibility: True
+Amount: 627307
+Languages: ['Portuguese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f93
+Name: Crystal City II 1
+Longitude: -77.0497192
+Latitude: 38.8550463
+Accessibility: True
+Amount: 625047
+Languages: ['French', 'Chinese', 'Spanish', 'Hindustani', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f7f
+Name: Reagan National Airport Center Pier Connector
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: False
+Amount: 622175
+Languages: ['Hindustani', 'Korean', 'French', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f49
+Name: Falls Church 2
+Longitude: -77.18639209999999
+Latitude: 38.8923369
+Accessibility: True
+Amount: 621569
+Languages: ['Portuguese', 'French', 'Spanish', 'Hindustani', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f57
+Name: Leesburg Pike Plaza 1
+Longitude: -77.1172646
+Latitude: 38.8491288
+Accessibility: True
+Amount: 605214
+Languages: ['Spanish', 'Portuguese', 'Hindustani', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f56
+Name: Dolley Madison 3
+Longitude: -77.1823211
+Latitude: 38.9380881
+Accessibility: False
+Amount: 596903
+Languages: ['French', 'Spanish', 'Korean', 'Portuguese', 'Chinese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f5a
+Name: Shaw Pittman Building 1
+Longitude: -77.0507354
+Latitude: 38.9070597
+Accessibility: True
+Amount: 586731
+Languages: ['Korean', 'Hindustani', 'Chinese', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f45
+Name: M Street 1
+Longitude: -77.0653548
+Latitude: 38.905297
+Accessibility: False
+Amount: 580862
+Languages: ['Portuguese', 'Spanish', 'Chinese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f73
+Name: Pentagon Centre Mall 1
+Longitude: -77.0587467
+Latitude: 38.8614551
+Accessibility: False
+Amount: 573311
+Languages: ['Portuguese', 'Hindustani', 'French', 'Spanish', 'Chinese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f7e
+Name: Reagan National Airport South Pier Connector
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 571831
+Languages: ['Korean', 'Chinese', 'French', 'Spanish', 'Hindustani', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f4f
+Name: Columbia Pike 3
+Longitude: -77.09358499999999
+Latitude: 38.8605859
+Accessibility: True
+Amount: 562566
+Languages: ['French', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f30
+Name: WMATA - Ballston 1
+Longitude: -77.1113105
+Latitude: 38.882163
+Accessibility: True
+Amount: 561583
+Languages: ['French', 'Korean', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f7b
+Name: WMATA - Farragut North 1
+Longitude: -77.0390135
+Latitude: 38.9029004
+Accessibility: True
+Amount: 559776
+Languages: ['Hindustani', 'Korean', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f54
+Name: Dolley Madison 1
+Longitude: -77.1823211
+Latitude: 38.9380881
+Accessibility: False
+Amount: 546950
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506fc8
+Name: Annandale 1
+Longitude: -77.1889159
+Latitude: 38.8297662
+Accessibility: True
+Amount: 538485
+Languages: ['Spanish', 'Chinese', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f8a
+Name: International Trade Center 3
+Longitude: -77.0302118
+Latitude: 38.8949053
+Accessibility: False
+Amount: 537465
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f39
+Name: WMATA - Rosslyn 1
+Longitude: -77.071978
+Latitude: 38.896854
+Accessibility: False
+Amount: 532878
+Languages: ['Hindustani', 'Portuguese', 'Chinese', 'French', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506fa8
+Name: MCI Center 5
+Longitude: -77.0216171
+Latitude: 38.8983998
+Accessibility: False
+Amount: 529192
+Languages: ['Portuguese', 'Chinese', 'French', 'Hindustani', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f6b
+Name: 18th &amp; M 1
+Longitude: -77.04193819999999
+Latitude: 38.9053571
+Accessibility: False
+Amount: 517903
+Languages: ['French', 'English']
+
+ATM ID: 56c66be5a73e492741506fbb
+Name: Reagan National Airport 1
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 515534
+Languages: ['Portuguese', 'Hindustani', 'Spanish', 'French', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f2c
+Name: Arlington 2
+Longitude: -77.1211338
+Latitude: 38.8981779
+Accessibility: True
+Amount: 510406
+Languages: ['Chinese', 'French', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f48
+Name: Falls Church 1
+Longitude: -77.18639209999999
+Latitude: 38.8923369
+Accessibility: True
+Amount: 508011
+Languages: ['Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f3b
+Name: Rosslyn 2
+Longitude: -77.0702878
+Latitude: 38.8947171
+Accessibility: False
+Amount: 504587
+Languages: ['Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f38
+Name: Seven Corners 2
+Longitude: -77.1506881
+Latitude: 38.8689155
+Accessibility: True
+Amount: 493502
+Languages: ['Portuguese', 'French', 'Hindustani', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f9f
+Name: Market Square 1
+Longitude: -77.0223723
+Latitude: 38.8944693
+Accessibility: False
+Amount: 487373
+Languages: ['Spanish', 'French', 'Korean', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f4a
+Name: WMATA - West Falls Church 1
+Longitude: -77.1878309
+Latitude: 38.8977328
+Accessibility: False
+Amount: 486857
+Languages: ['Korean', 'French', 'Portuguese', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506fa6
+Name: MCI Center 3
+Longitude: -77.0216171
+Latitude: 38.8983998
+Accessibility: False
+Amount: 485286
+Languages: ['Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f72
+Name: Pentagon City Fashion Centre 3
+Longitude: -77.0601179
+Latitude: 38.8639404
+Accessibility: False
+Amount: 478199
+Languages: ['French', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f5b
+Name: WMATA - Foggy Bottom 1
+Longitude: -77.04966999999999
+Latitude: 38.9005805
+Accessibility: True
+Amount: 474740
+Languages: ['Chinese', 'Korean', 'Spanish', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f3a
+Name: Rosslyn 1
+Longitude: -77.0702878
+Latitude: 38.8947171
+Accessibility: True
+Amount: 472085
+Languages: ['Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f8b
+Name: International Trade Center 4
+Longitude: -77.0302118
+Latitude: 38.8949053
+Accessibility: False
+Amount: 445583
+Languages: ['Korean', 'Chinese', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f4c
+Name: McLean 2
+Longitude: -77.17829449999999
+Latitude: 38.932887
+Accessibility: False
+Amount: 444425
+Languages: ['Portuguese', 'Korean', 'Spanish', 'Chinese', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506fc5
+Name: Children's Hospital Center 1
+Longitude: -77.0146728
+Latitude: 38.9271809
+Accessibility: True
+Amount: 435468
+Languages: ['Korean', 'Hindustani', 'Portuguese', 'French', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f35
+Name: Ballston Common Mall 2
+Longitude: -77.109526
+Latitude: 38.879446
+Accessibility: False
+Amount: 428320
+Languages: ['Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f58
+Name: Leesburg Pike Plaza 2
+Longitude: -77.1172646
+Latitude: 38.8491288
+Accessibility: True
+Amount: 422814
+Languages: ['Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f69
+Name: WMATA - Pentagon 1
+Longitude: -77.0558384
+Latitude: 38.8708761
+Accessibility: False
+Amount: 412302
+Languages: ['Spanish', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506fb7
+Name: National Airport 6
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 402217
+Languages: ['Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506fb5
+Name: National Airport 13
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 383700
+Languages: ['Korean', 'Chinese', 'Hindustani', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f4e
+Name: Columbia Pike 2
+Longitude: -77.09358499999999
+Latitude: 38.8605859
+Accessibility: False
+Amount: 342742
+Languages: ['Korean', 'French', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f2b
+Name: Arlington 1
+Longitude: -77.1211338
+Latitude: 38.8981779
+Accessibility: True
+Amount: 337830
+Languages: ['Spanish', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f33
+Name: Ballston Commons Mall 4
+Longitude: -77.1102162
+Latitude: 38.8788951
+Accessibility: False
+Amount: 318232
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506fb2
+Name: National Airport 10
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 317123
+Languages: ['Korean', 'Portuguese', 'Chinese', 'Hindustani', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f7c
+Name: 17th &amp; L 1
+Longitude: -77.03852479999999
+Latitude: 38.9037384
+Accessibility: True
+Amount: 312097
+Languages: ['Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f86
+Name: Crowne Plaza @ Natl Airport 1
+Longitude: -77.05180760000002
+Latitude: 38.8596001
+Accessibility: False
+Amount: 303729
+Languages: ['French', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f7a
+Name: Washington Square 1
+Longitude: -77.04083159999999
+Latitude: 38.9033865
+Accessibility: False
+Amount: 280484
+Languages: ['Chinese', 'Spanish', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f55
+Name: Dolley Madison 2
+Longitude: -77.1823211
+Latitude: 38.9380881
+Accessibility: False
+Amount: 278569
+Languages: ['Chinese', 'Korean', 'French', 'Hindustani', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f87
+Name: WMATA - Crystal City 1
+Longitude: -77.05187459999999
+Latitude: 38.8572168
+Accessibility: True
+Amount: 277630
+Languages: ['Korean', 'Portuguese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f4b
+Name: McLean 1
+Longitude: -77.17829449999999
+Latitude: 38.932887
+Accessibility: True
+Amount: 273775
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f2d
+Name: Lee Highway/North Arlington 2
+Longitude: -77.1333157
+Latitude: 38.8960952
+Accessibility: True
+Amount: 270091
+Languages: ['Chinese', 'French', 'Spanish', 'Hindustani', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506fba
+Name: National Airport 9
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 250837
+Languages: ['French', 'Spanish', 'Chinese', 'Korean', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506fa4
+Name: MCI Center 1
+Longitude: -77.0216171
+Latitude: 38.8983998
+Accessibility: False
+Amount: 231142
+Languages: ['French', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506fbd
+Name: Potomac Yards 1
+Longitude: -77.0504626
+Latitude: 38.8365716
+Accessibility: False
+Amount: 222561
+Languages: ['Chinese', 'Korean', 'Hindustani', 'French', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f88
+Name: International Trade Center 1
+Longitude: -77.0302118
+Latitude: 38.8949053
+Accessibility: True
+Amount: 214220
+Languages: ['Hindustani', 'Chinese', 'Korean', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f79
+Name: Pennsylvania Avenue 2
+Longitude: -77.040381
+Latitude: 38.89952
+Accessibility: False
+Amount: 213420
+Languages: ['Chinese', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f96
+Name: Holiday Inn - National Airport 1
+Longitude: -77.05329499999999
+Latitude: 38.849464
+Accessibility: True
+Amount: 198091
+Languages: ['Portuguese', 'Korean', 'Hindustani', 'French', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506f85
+Name: WMATA - McPherson Square 1
+Longitude: -77.0322568
+Latitude: 38.9010349
+Accessibility: True
+Amount: 192085
+Languages: ['Korean', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f64
+Name: 2000 Pennsylvania Avenue 1
+Longitude: -77.0459826
+Latitude: 38.90017479999999
+Accessibility: False
+Amount: 188581
+Languages: ['French', 'Korean', 'Portuguese', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f6d
+Name: 18th &amp; M 3
+Longitude: -77.04193819999999
+Latitude: 38.9053571
+Accessibility: True
+Amount: 175264
+Languages: ['French', 'Chinese', 'Spanish', 'English']
+
+ATM ID: 56c66be5a73e492741506fb9
+Name: National Airport 8
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: False
+Amount: 174158
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f46
+Name: Georgetown 1
+Longitude: -77.0646324
+Latitude: 38.9102227
+Accessibility: False
+Amount: 166339
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f89
+Name: International Trade Center 2
+Longitude: -77.0302118
+Latitude: 38.8949053
+Accessibility: False
+Amount: 151918
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f40
+Name: American University Remote 4
+Longitude: -77.0871844
+Latitude: 38.9392871
+Accessibility: True
+Amount: 145602
+Languages: ['French', 'Korean', 'Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506fa2
+Name: WMATA - Gallery Place 1
+Longitude: -77.0207781
+Latitude: 38.89981590000001
+Accessibility: False
+Amount: 131728
+Languages: ['French', 'Portuguese', 'Korean', 'Spanish', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f78
+Name: Pennsylvania Avenue 1
+Longitude: -77.040381
+Latitude: 38.89952
+Accessibility: False
+Amount: 129288
+Languages: ['Korean', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506f76
+Name: 17th and K Street 2
+Longitude: -77.0399522
+Latitude: 38.902173
+Accessibility: False
+Amount: 126483
+Languages: ['Korean', 'Chinese', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506f9b
+Name: Bradlee Center 2
+Longitude: -77.0920119
+Latitude: 38.8298056
+Accessibility: True
+Amount: 122918
+Languages: ['Korean', 'Spanish', 'Chinese', 'Hindustani', 'French', 'Portuguese', 'English']
+
+ATM ID: 56c66be5a73e492741506fa1
+Name: WMATA - Archives 1
+Longitude: -77.0223723
+Latitude: 38.8944693
+Accessibility: True
+Amount: 110600
+Languages: ['Spanish', 'Chinese', 'Hindustani', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f95
+Name: WMATA - Smithsonian 1
+Longitude: -77.0287341
+Latitude: 38.8875558
+Accessibility: False
+Amount: 109033
+Languages: ['Hindustani', 'Spanish', 'French', 'Korean', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506fb4
+Name: National Airport 12
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: False
+Amount: 108268
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f80
+Name: Reagan National Airport North Pier Connector
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 101387
+Languages: ['Portuguese', 'Korean', 'French', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f75
+Name: 17th and K Street 1
+Longitude: -77.0399522
+Latitude: 38.902173
+Accessibility: False
+Amount: 96709
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f59
+Name: Leesburg Pike Plaza 3
+Longitude: -77.1172646
+Latitude: 38.8491288
+Accessibility: True
+Amount: 70907
+Languages: ['Spanish', 'Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506fad
+Name: WMATA Headquarters 1
+Longitude: -77.01942
+Latitude: 38.897842
+Accessibility: True
+Amount: 70751
+Languages: ['Portuguese', 'Korean', 'Spanish', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f37
+Name: Seven Corners 1
+Longitude: -77.1506881
+Latitude: 38.8689155
+Accessibility: True
+Amount: 50772
+Languages: ['Portuguese', 'Hindustani', 'Spanish', 'Chinese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506fb8
+Name: National Airport 7
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 33758
+Languages: ['Spanish', 'French', 'Chinese', 'English']
+
+ATM ID: 56c66be5a73e492741506fb6
+Name: National Airport 3
+Longitude: -77.04248179999999
+Latitude: 38.8523336
+Accessibility: True
+Amount: 33364
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f90
+Name: Columbia Square 1
+Longitude: -77.0282675
+Latitude: 38.897154
+Accessibility: True
+Amount: 25302
+Languages: ['Hindustani', 'French', 'English']
+
+ATM ID: 56c66be5a73e492741506f66
+Name: WMATA - Dupont Circle 1
+Longitude: -77.0448991
+Latitude: 38.9110364
+Accessibility: False
+Amount: 24082
+Languages: ['Spanish', 'Chinese', 'Korean', 'English']
+
+ATM ID: 56c66be5a73e492741506f31
+Name: Ballston Commons Mall 1
+Longitude: -77.1102162
+Latitude: 38.8788951
+Accessibility: True
+Amount: 13984
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506f2e
+Name: Lee Highway/North Arlington 3
+Longitude: -77.1333157
+Latitude: 38.8960952
+Accessibility: False
+Amount: 13697
+Languages: ['Hindustani', 'English']
+
+ATM ID: 56c66be5a73e492741506f43
+Name: Spring Valley 1
+Longitude: -77.0961428
+Latitude: 38.9449596
+Accessibility: True
+Amount: 4274
+Languages: ['English']
+
+ATM ID: 56c66be5a73e492741506fb1
+Name: WMATA - Judiciary Square 1
+Longitude: -77.01759469999999
+Latitude: 38.8969442
+Accessibility: False
+Amount: 3918
+Languages: ['Chinese', 'Portuguese', 'Hindustani', 'English']
+

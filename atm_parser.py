@@ -15,6 +15,17 @@ class ATM:
 		self.amount = amount
 		self.languages = languages
 
+	def __lt__(self, other):
+
+		if self.amount < other.amount:
+			return True
+		
+		return False
+
+	def __str__(self):
+
+		return 'ATM ID: ' + self.atmID + '\nName: ' + self.name + '\nLongitude: ' + str(self.lng) + '\nLatitude: ' + str(self.lat) + '\nAccessibility: ' + str(self.access) + '\nAmount: ' + str(self.amount) + '\nLanguages: ' + str(self.languages) + '\n\n'
+
 def json_to_dict(url):
 	
 	html = urlopen(url)
@@ -37,5 +48,19 @@ def parseData(json_dict):
 
 		concatenated_url = front + back
 		json_to_dict(concatenated_url)
+
+def write_to_file():
+
+	sorted_atms = sorted(ATM.atm_list)[::-1]
+
+	f = open('atm_list.txt', 'w')
+
+	for elem in sorted_atms:
+
+		f.write(str(elem))
+
+	f.close()
+
+
 
 
