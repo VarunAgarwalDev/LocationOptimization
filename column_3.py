@@ -44,7 +44,7 @@ def create_crime_index():
     for point in testPointLocations:
         crimeIndex = 0
         for crime in crimeLocations:
-            if crime.lat < (point.lat + crimeRadius) and crime.lng < (point.lng + crimeRadius):
+            if crime.lat < (point.lat + crimeRadius) and crime.lat > (point.lat - crimeRadius) and crime.lng < (point.lng + crimeRadius) and crime.lng > (point.lng - crimeRadius):
                 crimeIndex += 1
         crimeIndexArray.append(crimeIndex)
 
